@@ -9,3 +9,4 @@
 [Start-VSCode](./etc/start-VScode.md)  
 [Git](./etc/git.md)  
 [VScode](./etc/VScode.md)  
+お
