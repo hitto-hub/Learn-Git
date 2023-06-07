@@ -156,7 +156,7 @@ Hyper Text Markup Languageの略称でWebページのテキストとその構造
 
 ---
 
-### ハンズオン1
+### Let's Try!
 
 1. ```index.html```ファイルを作成する
 2. ```index.html```ファイルの編集画面に行き、```!```を押し、そのまま```Tab```を押す。
