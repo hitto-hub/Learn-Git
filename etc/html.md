@@ -164,7 +164,7 @@ Hyper Text Markup Languageの略称でWebページのテキストとその構造
 
 ![sample](../img/html/sample.png)  
 このような
-[Webページ](https://hitto-hub.github.io/meet-up/docs/assets/src/sample.html)
+[Webページ](https://hitto-hub.github.io/meet-up/etc/sample.html)
 を作ってみよう！
 
 <details><summary>答え</summary><div>
