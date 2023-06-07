@@ -1,3 +1,5 @@
+#git
+
 <details>
 <summary><h2>gitを使う(VScode編)</h2></summary>
 
@@ -59,3 +61,7 @@ git push -u origin main
 ```
 
 </details>
+
+## memo
+
+[gitの改行コードについて](https://qiita.com/uggds/items/00a1974ec4f115616580)
