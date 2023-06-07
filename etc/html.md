@@ -1,4 +1,4 @@
-# HTM
+# HTML
 
 HTMLとは？  
 Hyper Text Markup Languageの略称でWebページのテキストとその構造を示した言語。  
