@@ -1,4 +1,4 @@
-#git
+# git
 
 <details>
 <summary><h2>gitを使う(VScode編)</h2></summary>
