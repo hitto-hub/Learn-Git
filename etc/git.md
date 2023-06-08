@@ -45,10 +45,6 @@ git remote add origin https://github.com/hitto-hub/example.git
 Githubにpush
 
 ```bash
-git push -u origin main
-```
-
-```bash
 git remote add origin https://github.com/hitto-hub/example.git
 ```
 
