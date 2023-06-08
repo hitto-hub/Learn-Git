@@ -36,7 +36,7 @@ mainブランチに切り替え
 git branch -M main
 ```
 
-アップロード先(ここではGithub)を教える
+アップロード先を教える
 
 ```bash
 git remote add origin https://github.com/hitto-hub/example.git
