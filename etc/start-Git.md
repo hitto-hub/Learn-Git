@@ -114,6 +114,9 @@ cat id_rsa.pub
 ssh -T git@github.com
 ```
 
+無理だったら、、、
+| ssh -T git@github.com -i "ここにファイルのパス"
+
 successと出てきたら、okです。おめでとう！
 </details>
 
