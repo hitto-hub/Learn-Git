@@ -115,7 +115,8 @@ ssh -T git@github.com
 ```
 
 無理だったら、、、
-| ssh -T git@github.com -i "ここにファイルのパス"
+
+ssh -T git@github.com -i "ここにファイルのパス"
 
 successと出てきたら、okです。おめでとう！
 </details>
