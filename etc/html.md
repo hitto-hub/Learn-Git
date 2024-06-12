@@ -167,7 +167,7 @@ Hyper Text Markup Languageの略称でWebページのテキストとその構造
 [Webページ](https://hitto-hub.github.io/meet-up/etc/sample.html)
 を作ってみよう！
 
-<details><summary>答え</summary><div>
+<!-- <details><summary>答え</summary><div> 
 
 ```html
 <!DOCTYPE html>
@@ -215,4 +215,5 @@ Hyper Text Markup Languageの略称でWebページのテキストとその構造
 </html>
 ```
 
-</div></details>
+</div></details> -->
+>
